@@ -14,7 +14,6 @@
     margin-bottom: 200px;
 
 }
-   
 
 .nav-banner{
     background-image: url('../images/banner/banner2.png');
@@ -22,9 +21,6 @@
     background-size: cover;
     text-align: right;
     padding: 20px 200px;
-    
-    
-    
 
 }
 .banner-title{
@@ -136,9 +132,8 @@ section{
     color: #F15B22;
  }
 /* footer section */
-footer{
-    padding: 20px 120px;
-}
+
+
 .contact{
     display: flex;
     background-color: black;
@@ -149,6 +144,7 @@ footer{
     font-weight: 700;
     font-size: 45px;
     color: white;
+    margin-top: 40px;
     
 }
 .Future-description{
@@ -157,8 +153,13 @@ footer{
     color: white;
 }
 .email-title{
-    margin-bottom: 70px;
+    
     color: white;
+}
+.phone-title{
+    margin-top: 16px;
+    color: white;
+    margin-bottom: 70px;
 }
 .contact a{
     text-decoration: none;
@@ -169,13 +170,14 @@ footer{
     font-size: 25px;
     margin-bottom: 30px;
     color: white;
+    
 }
 .btn-white{
     margin-top: 16px;
 }
 .Future{
-    margin-bottom: 130px;
-    margin-top: 130px;
+    
+    margin-top: 90px;
     justify-content: center;
     
 }
@@ -187,5 +189,5 @@ footer{
     background: none;
 }
 a{
-    padding: 5px;
+    padding: 4px;
 }
