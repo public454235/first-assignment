@@ -1,0 +1,191 @@
+*{
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+/* header banner */
+.btn-primary{
+    background-color: #F15B22;
+    border-radius: 5px;
+    border: 0;
+    padding: 20px;
+    font-weight: 600;
+    font-size: 20px;
+    color: white;
+    margin-bottom: 200px;
+
+}
+   
+
+.nav-banner{
+    background-image: url('../images/banner/banner2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: right;
+    padding: 20px 200px;
+    
+    
+    
+
+}
+.banner-title{
+    font-weight: 700;
+    font-size: 80px;
+    margin-bottom: 20px;
+    
+}
+.banner-description{
+    color: #444343;
+    margin-bottom: 32px;
+    font-size: 20px;
+    padding-left: 40px;
+    margin-left: 200px;
+    
+
+}
+/* main-about */
+
+.about{
+    margin-top: 130px;
+    display: flex;
+    align-items: center;  
+    margin-bottom: 80px;
+    padding: 20px 120px;
+}
+.title{
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 24px;
+}
+.description{
+    margin-bottom: 16px;
+    color: #444343;
+}
+.input{
+    color: #444343;
+    
+}
+
+/* section-style */
+
+section{
+    padding: 20px 120px;
+}
+.section-title{
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    text-align: center;
+    margin-bottom: 50px;
+    
+}
+.set-title{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+
+.skill-title{
+    font-weight: 700;
+    font-size: 30px;
+    color: #151414;
+    margin-top: 24px;
+    margin-bottom: 16px;
+
+}
+.skill-description{
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+
+}
+.skills-container{
+    display: flex;
+    gap: 86px;
+    text-align: center;
+    justify-content: center;
+}
+.section-style{
+    margin-bottom: 80px;
+}
+
+ /* section-call */
+
+.call{
+    padding: 20px 120px;
+}
+ .section-call{
+    background-image: url('../images/gradient2.png'), url('../images/watch.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 60px 70px;
+    margin-bottom: 80px;
+ }
+ .call-title{
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 24px;
+    color: white;
+ }
+ .btn-white{
+    
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 0;
+    padding: 15px;
+    color: #F15B22;
+ }
+/* footer section */
+footer{
+    padding: 20px 120px;
+}
+.contact{
+    display: flex;
+    background-color: black;
+    align-items: center;
+  
+}
+.Future-title{
+    font-weight: 700;
+    font-size: 45px;
+    color: white;
+    
+}
+.Future-description{
+    margin-top: 16Px;
+    margin-bottom: 24px;
+    color: white;
+}
+.email-title{
+    margin-bottom: 70px;
+    color: white;
+}
+.contact a{
+    text-decoration: none;
+    
+}
+.subscribe-title{
+    font-weight: 600;
+    font-size: 25px;
+    margin-bottom: 30px;
+    color: white;
+}
+.btn-white{
+    margin-top: 16px;
+}
+.Future{
+    margin-bottom: 130px;
+    margin-top: 130px;
+    justify-content: center;
+    
+}
+.email{
+    height: 40px;
+    width: 250px;
+    border-radius: 6px;
+    border-color: #FFFFFF;
+    background: none;
+}
+a{
+    padding: 5px;
+}
