@@ -15,16 +15,23 @@
 
 }
 
-.nav-banner{
+
+header{
     background-image: url('../images/banner/banner2.png');
     background-repeat: no-repeat;
     background-size: cover;
+    
+
+}
+.banner{
     text-align: right;
-    padding: 20px 200px;
+    padding: 20px 180px;
+    padding-top: 200px;
+    margin-left: 20px;
 
 }
 .banner-title{
-    font-weight: 700;
+    font-weight: 600;
     font-size: 80px;
     margin-bottom: 20px;
     
@@ -32,8 +39,8 @@
 .banner-description{
     color: #444343;
     margin-bottom: 32px;
-    font-size: 20px;
-    padding-left: 40px;
+    font-size: 15px;
+    padding-left: 80px;
     margin-left: 200px;
     
 
@@ -64,7 +71,7 @@
 /* section-style */
 
 section{
-    padding: 20px 120px;
+    padding: 10px 100px;
 }
 .section-title{
     font-weight: 700;
@@ -82,7 +89,7 @@ section{
 
 .skill-title{
     font-weight: 700;
-    font-size: 30px;
+    font-size: 25px;
     color: #151414;
     margin-top: 24px;
     margin-bottom: 16px;
@@ -90,15 +97,16 @@ section{
 }
 .skill-description{
     font-weight: 500;
-    font-size: 25px;
+    font-size: 15px;
     color: #737272;
 
 }
 .skills-container{
     display: flex;
-    gap: 86px;
+    gap: 80px;
     text-align: center;
     justify-content: center;
+    
 }
 .section-style{
     margin-bottom: 80px;
